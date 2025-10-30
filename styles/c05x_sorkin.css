@@ -1,0 +1,60 @@
+html {
+    background-color: yellow;
+}
+
+body {
+    width: 650px;
+    margin: 0 auto;
+    border: 6px double blue;
+    background-color: #fff;
+    padding: 20px;
+}
+
+
+footer {
+    border-top: 3px solid blue;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+
+h1 {
+    font-size: 28px;
+    color: blue;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+h3 {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+
+p, blockquote, ul, li {
+    margin: 15px 0;
+}
+
+
+cite {
+    color: blue;
+    font-style: normal;
+}
+
+
+.right-align {
+    text-align: right;
+}
+
+
+img {
+    float: left;
+    margin: 0 15px 15px 0;
+}

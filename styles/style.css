@@ -1,0 +1,48 @@
+/* External CSS File */
+/* Main page layout and design */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: cyan;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Main content container */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+/* Image style */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Link hover effect */
+a {
+    color: #007b8f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+/* Footer */
+footer {
+    background-color: #007b8f;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
